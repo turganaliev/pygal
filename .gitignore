@@ -1,5 +1,6 @@
-<<<<<<< HEAD
 env/
-=======
+
 __pycache__/
->>>>>>> e9b7479771377eed0253abc1948924db70e2c7de
+
+.DS_Store
+
