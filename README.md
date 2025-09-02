@@ -23,6 +23,9 @@ Clone the repository and install the required libraries from the `requirements.t
 ```bash
 git clone https://github.com/turganaliev/pygal.git
 cd pygal
+python -m venv venv
+source venv/bin/activate  # On macOS/Linux
+# On Windows, use: .\venv\Scripts\activate
 pip install -r requirements.txt
 ```
 ### 2. Execution
