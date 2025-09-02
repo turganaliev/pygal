@@ -21,6 +21,14 @@ This project contains a collection of Python scripts that use the `pygal` librar
 ### 1. Setup
 Clone the repository and install the required libraries from the `requirements.txt` file:
 ```bash
-git clone [https://github.com/turganaliev/pygal.git](https://github.com/turganaliev/pygal.git)
+git clone https://github.com/turganaliev/pygal.git
 cd pygal
 pip install -r requirements.txt
+```
+### 2. Execution
+Run any of the visualization scripts from your terminal:
+```bash
+python dice_visual.py
+python different_dice.py
+python choose_visual.py
+```
